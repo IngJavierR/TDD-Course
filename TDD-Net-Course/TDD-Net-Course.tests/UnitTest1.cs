@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using TDD_Net_Course;
 
 namespace Tests
 {
@@ -10,9 +11,9 @@ namespace Tests
         }
 
         [Test]
-        public void Test1()
+        public void ShouldReturnTrue()
         {
-            Assert.Pass();
+            Assert.IsTrue(true);
         }
     }
 }

@@ -2,7 +2,7 @@
 
 namespace TDD_Net_Course
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
